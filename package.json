@@ -1,0 +1,24 @@
+{
+  "name": "faenor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentJo/Faenor.git"
+  },
+  "author": "Casier Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentJo/Faenor/issues"
+  },
+  "homepage": "https://github.com/silentJo/Faenor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
